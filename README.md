@@ -1,3 +1,16 @@
+# Deep learning work
+
+My deep learning work during my learning phase:
+
+1. Neural network convolution with keras and Tensorflow
+- A classification model for dog and cat images
+
+2. Data augmentation and enerative adversarial network (GAN)
+- Algorithms to build new images from a given image
+
+3. MobileNet_Image_Classification 
+-A light classification model
+
 # Travaux-Deepl-Learning
 
 Mes travaux de Deep learning durant ma phase d'apprentissage:
